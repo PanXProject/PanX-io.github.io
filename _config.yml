@@ -1,2 +1,3 @@
 name: PanX - Wiki
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
