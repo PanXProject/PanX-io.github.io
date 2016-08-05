@@ -14,16 +14,16 @@ owner:
   bio:            "An open source job search engine and recruitment application"
   email:          support@panx.io
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter: https://twitter.com/PanX_io/        
+  facebook: https://www.facebook.com/PanX-1731576010391013/      
+  github: https://github.com/PanX-io/PanX-API       
   stackexchange:  
-  linkedin:       
+  linkedin: https://www.linkedin.com/company/panx     
   instagram:      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:
+  google_plus: https://plus.google.com/+PanxIoonline/
 
 # Background image to be tiled on all pages
 background: 
