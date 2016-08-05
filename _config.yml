@@ -1,6 +1,6 @@
 title:            PanX - Wiki
 description:      A wiki for panx solutions and api
-disqus_shortname: https://disqus.com/by/panxio
+disqus_shortname: @panxio
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (https://wiki.panx.io)
@@ -14,16 +14,16 @@ owner:
   bio:            "An open source job search engine and recruitment application"
   email:          support@panx.io
   # Social networking links used in footer. Update and remove as you like.
-  twitter: https://twitter.com/PanX_io/        
-  facebook: https://www.facebook.com/PanX-1731576010391013/      
-  github: https://github.com/PanX-io/PanX-API       
+  twitter: PanX_io        
+  facebook: PanX-1731576010391013    
+  github: PanX-io     
   stackexchange:  
-  linkedin: https://www.linkedin.com/company/panx     
+  linkedin: panx     
   instagram:      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus: https://plus.google.com/+PanxIoonline/
+  google_plus: +PanxIoonline
 
 # Background image to be tiled on all pages
 background: 
