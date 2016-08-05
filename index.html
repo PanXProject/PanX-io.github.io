@@ -13,7 +13,6 @@ image:
 {% for post in paginator.posts %}
 <article class="hentry">
   <header>
-    <script src="//load.sumome.com/" data-sumo-site-id="80ab4f29859f7b66e13785635b7e8f516600bf5d7f835dfd4c8c649d4d88519e" async="async"></script>
     {% if post.image.feature %}
       <div class="entry-image-index">
         <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/images/{{ post.image.feature }}" alt="{{ post.title }}"></a>
